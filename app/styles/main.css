@@ -58,7 +58,7 @@ body {
     line-height: 60px;
     margin: 0 16px;
     padding: 0;
-    color: #fefefe;
+    color: black;
     float: none;
     max-width: none;
     font-family: 'Roboto Condensed', 'Helvetica Neue', Helvetica, sans-serif;
@@ -177,7 +177,7 @@ button.menu img {
 .navdrawer-container ul li a {
     display: block;
     text-decoration: none;
-    color: white;
+    color: black;
     transition: background-color 0.2s ease-out;
 }
 
