@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="us.bootcampwith.todo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.carlosrojasblog.clonetodo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>todo</name>
   <description>
-        An Ionic Framework and Cordova project.
+        A very simple productivity tool.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="hi@carlosrojasblog.com" href="http://www.carlosrojasblog.com/">
+    Carlos Rojas
     </author>
   <content src="index.html"/>
   <access origin="*"/>
